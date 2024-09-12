@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/babusingh02/leetcode/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/babusingh02/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -52,4 +53,12 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/babusingh02/leetcode/tree/master/0621-task-scheduler) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/babusingh02/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/babusingh02/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
