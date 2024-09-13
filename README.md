@@ -52,6 +52,7 @@
 | [0141-linked-list-cycle](https://github.com/babusingh02/leetcode/tree/master/0141-linked-list-cycle) |
 | [0621-task-scheduler](https://github.com/babusingh02/leetcode/tree/master/0621-task-scheduler) |
 | [1813-maximum-erasure-value](https://github.com/babusingh02/leetcode/tree/master/1813-maximum-erasure-value) |
+| [1873-longest-nice-substring](https://github.com/babusingh02/leetcode/tree/master/1873-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -82,10 +83,20 @@
 |  |
 | ------- |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/babusingh02/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1873-longest-nice-substring](https://github.com/babusingh02/leetcode/tree/master/1873-longest-nice-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/babusingh02/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/babusingh02/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1813-maximum-erasure-value](https://github.com/babusingh02/leetcode/tree/master/1813-maximum-erasure-value) |
+| [1873-longest-nice-substring](https://github.com/babusingh02/leetcode/tree/master/1873-longest-nice-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/babusingh02/leetcode/tree/master/1873-longest-nice-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/babusingh02/leetcode/tree/master/1873-longest-nice-substring) |
 <!---LeetCode Topics End-->
