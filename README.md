@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/babusingh02/leetcode/tree/master/0042-trapping-rain-water) |
+| [0173-binary-search-tree-iterator](https://github.com/babusingh02/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/babusingh02/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [2573-remove-nodes-from-linked-list](https://github.com/babusingh02/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -71,6 +72,7 @@
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/babusingh02/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/babusingh02/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
@@ -123,4 +125,20 @@
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/babusingh02/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/babusingh02/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/babusingh02/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Binary Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/babusingh02/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/babusingh02/leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
