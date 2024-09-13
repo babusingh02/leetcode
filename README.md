@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/babusingh02/leetcode/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/babusingh02/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/babusingh02/leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/babusingh02/leetcode/tree/master/0141-linked-list-cycle) |
 | [0455-assign-cookies](https://github.com/babusingh02/leetcode/tree/master/0455-assign-cookies) |
@@ -67,6 +68,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/babusingh02/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/babusingh02/leetcode/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/babusingh02/leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
