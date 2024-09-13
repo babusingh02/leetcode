@@ -101,6 +101,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/babusingh02/leetcode/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/babusingh02/leetcode/tree/master/0038-count-and-say) |
 | [0187-repeated-dna-sequences](https://github.com/babusingh02/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/babusingh02/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/babusingh02/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
