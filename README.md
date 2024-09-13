@@ -165,3 +165,4 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/babusingh02/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
+![](https://leetcard.jacoblin.cool/leetcode?animation=false)
