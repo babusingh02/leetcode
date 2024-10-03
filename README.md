@@ -169,5 +169,9 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/babusingh02/leetcode/tree/master/0014-longest-common-prefix) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/babusingh02/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
 ![](https://leetcard.jacoblin.cool/leetcode?cache=0)
