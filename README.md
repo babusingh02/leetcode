@@ -26,6 +26,7 @@
 | [0347-top-k-frequent-elements](https://github.com/babusingh02/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/babusingh02/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/babusingh02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/babusingh02/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/babusingh02/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/babusingh02/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/babusingh02/leetcode/tree/master/0561-array-partition) |
@@ -123,6 +124,7 @@
 | [0347-top-k-frequent-elements](https://github.com/babusingh02/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/babusingh02/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/babusingh02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/babusingh02/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/babusingh02/leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/babusingh02/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/babusingh02/leetcode/tree/master/0506-relative-ranks) |
@@ -167,6 +169,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/babusingh02/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/babusingh02/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/babusingh02/leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/babusingh02/leetcode/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/babusingh02/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -310,6 +313,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/babusingh02/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0349-intersection-of-two-arrays](https://github.com/babusingh02/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/babusingh02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/babusingh02/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0924-fair-candy-swap](https://github.com/babusingh02/leetcode/tree/master/0924-fair-candy-swap) |
 ## Binary Tree
 |  |
@@ -343,6 +347,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/babusingh02/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/babusingh02/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2737-row-with-maximum-ones](https://github.com/babusingh02/leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Simulation
