@@ -10,6 +10,7 @@
 | [0134-gas-station](https://github.com/babusingh02/leetcode/tree/master/0134-gas-station) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/babusingh02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/babusingh02/leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/babusingh02/leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/babusingh02/leetcode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/babusingh02/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/babusingh02/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -60,6 +61,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/babusingh02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/babusingh02/leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/babusingh02/leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/babusingh02/leetcode/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/babusingh02/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/babusingh02/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -79,6 +81,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/babusingh02/leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/babusingh02/leetcode/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/babusingh02/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 ## Counting
