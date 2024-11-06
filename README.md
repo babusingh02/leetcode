@@ -7,6 +7,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/babusingh02/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/babusingh02/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/babusingh02/leetcode/tree/master/0053-maximum-subarray) |
 | [0134-gas-station](https://github.com/babusingh02/leetcode/tree/master/0134-gas-station) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/babusingh02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/babusingh02/leetcode/tree/master/0455-assign-cookies) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/babusingh02/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/babusingh02/leetcode/tree/master/0053-maximum-subarray) |
 | [0646-maximum-length-of-pair-chain](https://github.com/babusingh02/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Stack
 |  |
@@ -140,6 +142,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/babusingh02/leetcode/tree/master/0053-maximum-subarray) |
 | [1873-longest-nice-substring](https://github.com/babusingh02/leetcode/tree/master/1873-longest-nice-substring) |
 ## Bit Manipulation
 |  |
