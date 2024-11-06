@@ -80,6 +80,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/babusingh02/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/babusingh02/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/babusingh02/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/babusingh02/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/babusingh02/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/babusingh02/leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -173,6 +174,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/babusingh02/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/babusingh02/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/babusingh02/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/babusingh02/leetcode/tree/master/0232-implement-queue-using-stacks) |
