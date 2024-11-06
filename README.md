@@ -20,6 +20,7 @@
 | [1813-maximum-erasure-value](https://github.com/babusingh02/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/babusingh02/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/babusingh02/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2737-row-with-maximum-ones](https://github.com/babusingh02/leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Two Pointers
 |  |
 | ------- |
@@ -195,6 +196,7 @@
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/babusingh02/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2737-row-with-maximum-ones](https://github.com/babusingh02/leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Simulation
 |  |
 | ------- |
