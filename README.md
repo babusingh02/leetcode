@@ -65,6 +65,7 @@
 | [1013-fibonacci-number](https://github.com/babusingh02/leetcode/tree/master/1013-fibonacci-number) |
 | [1659-get-the-maximum-score](https://github.com/babusingh02/leetcode/tree/master/1659-get-the-maximum-score) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/babusingh02/leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/babusingh02/leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Stack
 |  |
 | ------- |
@@ -181,6 +182,7 @@
 | [1013-fibonacci-number](https://github.com/babusingh02/leetcode/tree/master/1013-fibonacci-number) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/babusingh02/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/babusingh02/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/babusingh02/leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## String
 |  |
 | ------- |
@@ -229,6 +231,7 @@
 | [0187-repeated-dna-sequences](https://github.com/babusingh02/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/babusingh02/leetcode/tree/master/0389-find-the-difference) |
 | [1873-longest-nice-substring](https://github.com/babusingh02/leetcode/tree/master/1873-longest-nice-substring) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/babusingh02/leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Recursion
 |  |
 | ------- |
@@ -323,5 +326,10 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/babusingh02/leetcode/tree/master/1013-fibonacci-number) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/babusingh02/leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
+## Combinatorics
+|  |
+| ------- |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/babusingh02/leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 <!---LeetCode Topics End-->
 ![](https://leetcard.jacoblin.cool/leetcode?cache=0)
