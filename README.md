@@ -32,6 +32,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/babusingh02/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/babusingh02/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0713-subarray-product-less-than-k](https://github.com/babusingh02/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0924-fair-candy-swap](https://github.com/babusingh02/leetcode/tree/master/0924-fair-candy-swap) |
 | [1659-get-the-maximum-score](https://github.com/babusingh02/leetcode/tree/master/1659-get-the-maximum-score) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/babusingh02/leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1813-maximum-erasure-value](https://github.com/babusingh02/leetcode/tree/master/1813-maximum-erasure-value) |
@@ -111,6 +112,7 @@
 | [0561-array-partition](https://github.com/babusingh02/leetcode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/babusingh02/leetcode/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/babusingh02/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0924-fair-candy-swap](https://github.com/babusingh02/leetcode/tree/master/0924-fair-candy-swap) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/babusingh02/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
@@ -131,6 +133,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/babusingh02/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0621-task-scheduler](https://github.com/babusingh02/leetcode/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/babusingh02/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0924-fair-candy-swap](https://github.com/babusingh02/leetcode/tree/master/0924-fair-candy-swap) |
 | [1813-maximum-erasure-value](https://github.com/babusingh02/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1873-longest-nice-substring](https://github.com/babusingh02/leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/babusingh02/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -267,6 +270,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/babusingh02/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0349-intersection-of-two-arrays](https://github.com/babusingh02/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/babusingh02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0924-fair-candy-swap](https://github.com/babusingh02/leetcode/tree/master/0924-fair-candy-swap) |
 ## Binary Tree
 |  |
 | ------- |
