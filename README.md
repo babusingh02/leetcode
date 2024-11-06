@@ -16,6 +16,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/babusingh02/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0134-gas-station](https://github.com/babusingh02/leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/babusingh02/leetcode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/babusingh02/leetcode/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/babusingh02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/babusingh02/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/babusingh02/leetcode/tree/master/0506-relative-ranks) |
@@ -194,6 +195,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/babusingh02/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/babusingh02/leetcode/tree/master/0162-find-peak-element) |
 | [0173-binary-search-tree-iterator](https://github.com/babusingh02/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/babusingh02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Tree
