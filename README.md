@@ -37,6 +37,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/babusingh02/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0924-fair-candy-swap](https://github.com/babusingh02/leetcode/tree/master/0924-fair-candy-swap) |
 | [0983-validate-stack-sequences](https://github.com/babusingh02/leetcode/tree/master/0983-validate-stack-sequences) |
+| [1095-two-city-scheduling](https://github.com/babusingh02/leetcode/tree/master/1095-two-city-scheduling) |
 | [1241-decompress-run-length-encoded-list](https://github.com/babusingh02/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1659-get-the-maximum-score](https://github.com/babusingh02/leetcode/tree/master/1659-get-the-maximum-score) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/babusingh02/leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
@@ -112,6 +113,7 @@
 | [0621-task-scheduler](https://github.com/babusingh02/leetcode/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/babusingh02/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/babusingh02/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [1095-two-city-scheduling](https://github.com/babusingh02/leetcode/tree/master/1095-two-city-scheduling) |
 | [1659-get-the-maximum-score](https://github.com/babusingh02/leetcode/tree/master/1659-get-the-maximum-score) |
 ## Sorting
 |  |
@@ -129,6 +131,7 @@
 | [0621-task-scheduler](https://github.com/babusingh02/leetcode/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/babusingh02/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0924-fair-candy-swap](https://github.com/babusingh02/leetcode/tree/master/0924-fair-candy-swap) |
+| [1095-two-city-scheduling](https://github.com/babusingh02/leetcode/tree/master/1095-two-city-scheduling) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/babusingh02/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/babusingh02/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
