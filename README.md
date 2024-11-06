@@ -26,6 +26,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/babusingh02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/babusingh02/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/babusingh02/leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/babusingh02/leetcode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/babusingh02/leetcode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/babusingh02/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/babusingh02/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -92,6 +93,7 @@
 | [0316-remove-duplicate-letters](https://github.com/babusingh02/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/babusingh02/leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/babusingh02/leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/babusingh02/leetcode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/babusingh02/leetcode/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/babusingh02/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/babusingh02/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -106,6 +108,7 @@
 | [0389-find-the-difference](https://github.com/babusingh02/leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/babusingh02/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/babusingh02/leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/babusingh02/leetcode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/babusingh02/leetcode/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/babusingh02/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/babusingh02/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -336,5 +339,9 @@
 |  |
 | ------- |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/babusingh02/leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/babusingh02/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
 ![](https://leetcard.jacoblin.cool/leetcode?cache=0)
