@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/babusingh02/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/babusingh02/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/babusingh02/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/babusingh02/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/babusingh02/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/babusingh02/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/babusingh02/leetcode/tree/master/0053-maximum-subarray) |
@@ -317,6 +318,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/babusingh02/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/babusingh02/leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/babusingh02/leetcode/tree/master/0162-find-peak-element) |
 | [0173-binary-search-tree-iterator](https://github.com/babusingh02/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0349-intersection-of-two-arrays](https://github.com/babusingh02/leetcode/tree/master/0349-intersection-of-two-arrays) |
