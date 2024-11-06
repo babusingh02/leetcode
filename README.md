@@ -32,6 +32,7 @@
 | [0659-split-array-into-consecutive-subsequences](https://github.com/babusingh02/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0713-subarray-product-less-than-k](https://github.com/babusingh02/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1659-get-the-maximum-score](https://github.com/babusingh02/leetcode/tree/master/1659-get-the-maximum-score) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/babusingh02/leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1813-maximum-erasure-value](https://github.com/babusingh02/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/babusingh02/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/babusingh02/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -63,6 +64,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/babusingh02/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1013-fibonacci-number](https://github.com/babusingh02/leetcode/tree/master/1013-fibonacci-number) |
 | [1659-get-the-maximum-score](https://github.com/babusingh02/leetcode/tree/master/1659-get-the-maximum-score) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/babusingh02/leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 ## Stack
 |  |
 | ------- |
@@ -304,6 +306,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/babusingh02/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/babusingh02/leetcode/tree/master/0127-word-ladder) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/babusingh02/leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 ## Enumeration
 |  |
 | ------- |
