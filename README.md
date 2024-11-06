@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/babusingh02/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/babusingh02/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/babusingh02/leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/babusingh02/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/babusingh02/leetcode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/babusingh02/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/babusingh02/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -105,6 +106,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/babusingh02/leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/babusingh02/leetcode/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/babusingh02/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/babusingh02/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -123,6 +125,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/babusingh02/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/babusingh02/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/babusingh02/leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/babusingh02/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/babusingh02/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/babusingh02/leetcode/tree/master/0127-word-ladder) |
@@ -207,6 +210,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/babusingh02/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/babusingh02/leetcode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/babusingh02/leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/babusingh02/leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/babusingh02/leetcode/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/babusingh02/leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/babusingh02/leetcode/tree/master/0187-repeated-dna-sequences) |
