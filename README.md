@@ -109,6 +109,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/babusingh02/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/babusingh02/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/babusingh02/leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/babusingh02/leetcode/tree/master/0092-reverse-linked-list-ii) |
@@ -121,6 +122,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/babusingh02/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/babusingh02/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/babusingh02/leetcode/tree/master/0009-palindrome-number) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/babusingh02/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -161,6 +163,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/babusingh02/leetcode/tree/master/0002-add-two-numbers) |
 | [2573-remove-nodes-from-linked-list](https://github.com/babusingh02/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Number Theory
 |  |
