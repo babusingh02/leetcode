@@ -22,6 +22,7 @@
 | [0189-rotate-array](https://github.com/babusingh02/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/babusingh02/leetcode/tree/master/0204-count-primes) |
 | [0347-top-k-frequent-elements](https://github.com/babusingh02/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/babusingh02/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/babusingh02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/babusingh02/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/babusingh02/leetcode/tree/master/0506-relative-ranks) |
@@ -47,6 +48,7 @@
 | [0141-linked-list-cycle](https://github.com/babusingh02/leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/babusingh02/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/babusingh02/leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/babusingh02/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/babusingh02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/babusingh02/leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/babusingh02/leetcode/tree/master/0541-reverse-string-ii) |
@@ -89,6 +91,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/babusingh02/leetcode/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/babusingh02/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/babusingh02/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/babusingh02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/babusingh02/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/babusingh02/leetcode/tree/master/0506-relative-ranks) |
@@ -106,6 +109,7 @@
 | [0141-linked-list-cycle](https://github.com/babusingh02/leetcode/tree/master/0141-linked-list-cycle) |
 | [0187-repeated-dna-sequences](https://github.com/babusingh02/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0347-top-k-frequent-elements](https://github.com/babusingh02/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/babusingh02/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/babusingh02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/babusingh02/leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/babusingh02/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -228,6 +232,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/babusingh02/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/babusingh02/leetcode/tree/master/0162-find-peak-element) |
 | [0173-binary-search-tree-iterator](https://github.com/babusingh02/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0349-intersection-of-two-arrays](https://github.com/babusingh02/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/babusingh02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Tree
 |  |
