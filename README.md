@@ -39,6 +39,7 @@
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/babusingh02/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/babusingh02/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2737-row-with-maximum-ones](https://github.com/babusingh02/leetcode/tree/master/2737-row-with-maximum-ones) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/babusingh02/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0541-reverse-string-ii](https://github.com/babusingh02/leetcode/tree/master/0541-reverse-string-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/babusingh02/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1659-get-the-maximum-score](https://github.com/babusingh02/leetcode/tree/master/1659-get-the-maximum-score) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/babusingh02/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/babusingh02/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0924-fair-candy-swap](https://github.com/babusingh02/leetcode/tree/master/0924-fair-candy-swap) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/babusingh02/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/babusingh02/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
 | ------- |
