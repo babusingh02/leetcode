@@ -19,6 +19,7 @@
 | [0162-find-peak-element](https://github.com/babusingh02/leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/babusingh02/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/babusingh02/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/babusingh02/leetcode/tree/master/0204-count-primes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/babusingh02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/babusingh02/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/babusingh02/leetcode/tree/master/0506-relative-ranks) |
@@ -141,6 +142,7 @@
 | [0007-reverse-integer](https://github.com/babusingh02/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/babusingh02/leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/babusingh02/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/babusingh02/leetcode/tree/master/0204-count-primes) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/babusingh02/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/babusingh02/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## String
@@ -188,6 +190,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/babusingh02/leetcode/tree/master/0204-count-primes) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/babusingh02/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Tree
 |  |
@@ -253,5 +256,9 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/babusingh02/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/babusingh02/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
 ![](https://leetcard.jacoblin.cool/leetcode?cache=0)
