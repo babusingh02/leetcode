@@ -142,6 +142,7 @@
 | [1873-longest-nice-substring](https://github.com/babusingh02/leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/babusingh02/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/babusingh02/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2406-decode-the-message](https://github.com/babusingh02/leetcode/tree/master/2406-decode-the-message) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -217,6 +218,7 @@
 | [1873-longest-nice-substring](https://github.com/babusingh02/leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/babusingh02/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/babusingh02/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2406-decode-the-message](https://github.com/babusingh02/leetcode/tree/master/2406-decode-the-message) |
 | [3540-hash-divided-string](https://github.com/babusingh02/leetcode/tree/master/3540-hash-divided-string) |
 ## Sliding Window
 |  |
