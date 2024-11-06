@@ -128,6 +128,7 @@
 | [0127-word-ladder](https://github.com/babusingh02/leetcode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/babusingh02/leetcode/tree/master/0141-linked-list-cycle) |
 | [0187-repeated-dna-sequences](https://github.com/babusingh02/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/babusingh02/leetcode/tree/master/0205-isomorphic-strings) |
 | [0299-bulls-and-cows](https://github.com/babusingh02/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/babusingh02/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/babusingh02/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -209,6 +210,7 @@
 | [0127-word-ladder](https://github.com/babusingh02/leetcode/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/babusingh02/leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/babusingh02/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/babusingh02/leetcode/tree/master/0205-isomorphic-strings) |
 | [0299-bulls-and-cows](https://github.com/babusingh02/leetcode/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/babusingh02/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/babusingh02/leetcode/tree/master/0344-reverse-string) |
