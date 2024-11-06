@@ -47,6 +47,7 @@
 | [1813-maximum-erasure-value](https://github.com/babusingh02/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/babusingh02/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/babusingh02/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/babusingh02/leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2714-left-and-right-sum-differences](https://github.com/babusingh02/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2737-row-with-maximum-ones](https://github.com/babusingh02/leetcode/tree/master/2737-row-with-maximum-ones) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/babusingh02/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -356,6 +357,7 @@
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/babusingh02/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/babusingh02/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/babusingh02/leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/babusingh02/leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Simulation
 |  |
