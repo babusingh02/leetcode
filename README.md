@@ -84,6 +84,7 @@
 | [0225-implement-stack-using-queues](https://github.com/babusingh02/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/babusingh02/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/babusingh02/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/babusingh02/leetcode/tree/master/0394-decode-string) |
 | [0983-validate-stack-sequences](https://github.com/babusingh02/leetcode/tree/master/0983-validate-stack-sequences) |
 | [2128-reverse-prefix-of-word](https://github.com/babusingh02/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/babusingh02/leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -225,6 +226,7 @@
 | [0344-reverse-string](https://github.com/babusingh02/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/babusingh02/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/babusingh02/leetcode/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/babusingh02/leetcode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/babusingh02/leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/babusingh02/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/babusingh02/leetcode/tree/master/0541-reverse-string-ii) |
@@ -271,6 +273,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/babusingh02/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/babusingh02/leetcode/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/babusingh02/leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/babusingh02/leetcode/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/babusingh02/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Number Theory
