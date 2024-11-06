@@ -61,6 +61,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/babusingh02/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/babusingh02/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/babusingh02/leetcode/tree/master/0070-climbing-stairs) |
 | [0646-maximum-length-of-pair-chain](https://github.com/babusingh02/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1013-fibonacci-number](https://github.com/babusingh02/leetcode/tree/master/1013-fibonacci-number) |
 | [1659-get-the-maximum-score](https://github.com/babusingh02/leetcode/tree/master/1659-get-the-maximum-score) |
@@ -178,6 +179,7 @@
 | [0007-reverse-integer](https://github.com/babusingh02/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/babusingh02/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/babusingh02/leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/babusingh02/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/babusingh02/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/babusingh02/leetcode/tree/master/0204-count-primes) |
 | [1013-fibonacci-number](https://github.com/babusingh02/leetcode/tree/master/1013-fibonacci-number) |
@@ -327,6 +329,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/babusingh02/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/babusingh02/leetcode/tree/master/1013-fibonacci-number) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/babusingh02/leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Combinatorics
