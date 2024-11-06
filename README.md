@@ -84,6 +84,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/babusingh02/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/babusingh02/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0983-validate-stack-sequences](https://github.com/babusingh02/leetcode/tree/master/0983-validate-stack-sequences) |
+| [2470-removing-stars-from-a-string](https://github.com/babusingh02/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/babusingh02/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -230,6 +231,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/babusingh02/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/babusingh02/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2406-decode-the-message](https://github.com/babusingh02/leetcode/tree/master/2406-decode-the-message) |
+| [2470-removing-stars-from-a-string](https://github.com/babusingh02/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3540-hash-divided-string](https://github.com/babusingh02/leetcode/tree/master/3540-hash-divided-string) |
 ## Sliding Window
 |  |
@@ -330,6 +332,7 @@
 | ------- |
 | [0983-validate-stack-sequences](https://github.com/babusingh02/leetcode/tree/master/0983-validate-stack-sequences) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/babusingh02/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2470-removing-stars-from-a-string](https://github.com/babusingh02/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3540-hash-divided-string](https://github.com/babusingh02/leetcode/tree/master/3540-hash-divided-string) |
 ## Depth-First Search
 |  |
