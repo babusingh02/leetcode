@@ -237,6 +237,7 @@
 | [0014-longest-common-prefix](https://github.com/babusingh02/leetcode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/babusingh02/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/babusingh02/leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/babusingh02/leetcode/tree/master/0058-length-of-last-word) |
 | [0127-word-ladder](https://github.com/babusingh02/leetcode/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/babusingh02/leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/babusingh02/leetcode/tree/master/0187-repeated-dna-sequences) |
