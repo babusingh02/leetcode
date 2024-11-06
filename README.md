@@ -34,6 +34,7 @@
 | [0659-split-array-into-consecutive-subsequences](https://github.com/babusingh02/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0713-subarray-product-less-than-k](https://github.com/babusingh02/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0924-fair-candy-swap](https://github.com/babusingh02/leetcode/tree/master/0924-fair-candy-swap) |
+| [0983-validate-stack-sequences](https://github.com/babusingh02/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1241-decompress-run-length-encoded-list](https://github.com/babusingh02/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1659-get-the-maximum-score](https://github.com/babusingh02/leetcode/tree/master/1659-get-the-maximum-score) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/babusingh02/leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
@@ -82,6 +83,7 @@
 | [0225-implement-stack-using-queues](https://github.com/babusingh02/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/babusingh02/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/babusingh02/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0983-validate-stack-sequences](https://github.com/babusingh02/leetcode/tree/master/0983-validate-stack-sequences) |
 | [2573-remove-nodes-from-linked-list](https://github.com/babusingh02/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -326,6 +328,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0983-validate-stack-sequences](https://github.com/babusingh02/leetcode/tree/master/0983-validate-stack-sequences) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/babusingh02/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3540-hash-divided-string](https://github.com/babusingh02/leetcode/tree/master/3540-hash-divided-string) |
 ## Depth-First Search
