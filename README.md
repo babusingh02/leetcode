@@ -18,6 +18,7 @@
 | [0136-single-number](https://github.com/babusingh02/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/babusingh02/leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/babusingh02/leetcode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/babusingh02/leetcode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/babusingh02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/babusingh02/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/babusingh02/leetcode/tree/master/0506-relative-ranks) |
@@ -41,6 +42,7 @@
 | [0061-rotate-list](https://github.com/babusingh02/leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/babusingh02/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/babusingh02/leetcode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/babusingh02/leetcode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/babusingh02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/babusingh02/leetcode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/babusingh02/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -138,6 +140,7 @@
 | [0002-add-two-numbers](https://github.com/babusingh02/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/babusingh02/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/babusingh02/leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/babusingh02/leetcode/tree/master/0189-rotate-array) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/babusingh02/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/babusingh02/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## String
