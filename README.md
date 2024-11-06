@@ -29,6 +29,7 @@
 | [0455-assign-cookies](https://github.com/babusingh02/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/babusingh02/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/babusingh02/leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/babusingh02/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/babusingh02/leetcode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/babusingh02/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/babusingh02/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -124,6 +125,7 @@
 | [0455-assign-cookies](https://github.com/babusingh02/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/babusingh02/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/babusingh02/leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/babusingh02/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/babusingh02/leetcode/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/babusingh02/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0924-fair-candy-swap](https://github.com/babusingh02/leetcode/tree/master/0924-fair-candy-swap) |
@@ -149,6 +151,7 @@
 | [0389-find-the-difference](https://github.com/babusingh02/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/babusingh02/leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/babusingh02/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/babusingh02/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/babusingh02/leetcode/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/babusingh02/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0924-fair-candy-swap](https://github.com/babusingh02/leetcode/tree/master/0924-fair-candy-swap) |
@@ -170,6 +173,7 @@
 | [0299-bulls-and-cows](https://github.com/babusingh02/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/babusingh02/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/babusingh02/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/babusingh02/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/babusingh02/leetcode/tree/master/0621-task-scheduler) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/babusingh02/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/babusingh02/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
@@ -248,6 +252,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/babusingh02/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/babusingh02/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/babusingh02/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/babusingh02/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/babusingh02/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/babusingh02/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/babusingh02/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
