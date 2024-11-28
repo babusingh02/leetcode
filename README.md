@@ -43,6 +43,7 @@
 | [0941-sort-array-by-parity](https://github.com/babusingh02/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0983-validate-stack-sequences](https://github.com/babusingh02/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1095-two-city-scheduling](https://github.com/babusingh02/leetcode/tree/master/1095-two-city-scheduling) |
+| [1127-last-stone-weight](https://github.com/babusingh02/leetcode/tree/master/1127-last-stone-weight) |
 | [1241-decompress-run-length-encoded-list](https://github.com/babusingh02/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1659-get-the-maximum-score](https://github.com/babusingh02/leetcode/tree/master/1659-get-the-maximum-score) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/babusingh02/leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
@@ -182,6 +183,7 @@
 | [0506-relative-ranks](https://github.com/babusingh02/leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/babusingh02/leetcode/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/babusingh02/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [1127-last-stone-weight](https://github.com/babusingh02/leetcode/tree/master/1127-last-stone-weight) |
 ## Counting
 |  |
 | ------- |
