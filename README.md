@@ -46,6 +46,7 @@
 | [0924-fair-candy-swap](https://github.com/babusingh02/leetcode/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/babusingh02/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0983-validate-stack-sequences](https://github.com/babusingh02/leetcode/tree/master/0983-validate-stack-sequences) |
+| [1019-squares-of-a-sorted-array](https://github.com/babusingh02/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1095-two-city-scheduling](https://github.com/babusingh02/leetcode/tree/master/1095-two-city-scheduling) |
 | [1127-last-stone-weight](https://github.com/babusingh02/leetcode/tree/master/1127-last-stone-weight) |
 | [1241-decompress-run-length-encoded-list](https://github.com/babusingh02/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
@@ -80,6 +81,7 @@
 | [0541-reverse-string-ii](https://github.com/babusingh02/leetcode/tree/master/0541-reverse-string-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/babusingh02/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/babusingh02/leetcode/tree/master/0941-sort-array-by-parity) |
+| [1019-squares-of-a-sorted-array](https://github.com/babusingh02/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1659-get-the-maximum-score](https://github.com/babusingh02/leetcode/tree/master/1659-get-the-maximum-score) |
 | [2128-reverse-prefix-of-word](https://github.com/babusingh02/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/babusingh02/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -156,6 +158,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/babusingh02/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0924-fair-candy-swap](https://github.com/babusingh02/leetcode/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/babusingh02/leetcode/tree/master/0941-sort-array-by-parity) |
+| [1019-squares-of-a-sorted-array](https://github.com/babusingh02/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1095-two-city-scheduling](https://github.com/babusingh02/leetcode/tree/master/1095-two-city-scheduling) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/babusingh02/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/babusingh02/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
