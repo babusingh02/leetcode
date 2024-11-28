@@ -45,6 +45,7 @@
 | [0792-binary-search](https://github.com/babusingh02/leetcode/tree/master/0792-binary-search) |
 | [0924-fair-candy-swap](https://github.com/babusingh02/leetcode/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/babusingh02/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0979-di-string-match](https://github.com/babusingh02/leetcode/tree/master/0979-di-string-match) |
 | [0983-validate-stack-sequences](https://github.com/babusingh02/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1019-squares-of-a-sorted-array](https://github.com/babusingh02/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1095-two-city-scheduling](https://github.com/babusingh02/leetcode/tree/master/1095-two-city-scheduling) |
@@ -81,6 +82,7 @@
 | [0541-reverse-string-ii](https://github.com/babusingh02/leetcode/tree/master/0541-reverse-string-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/babusingh02/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/babusingh02/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0979-di-string-match](https://github.com/babusingh02/leetcode/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/babusingh02/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1659-get-the-maximum-score](https://github.com/babusingh02/leetcode/tree/master/1659-get-the-maximum-score) |
 | [2128-reverse-prefix-of-word](https://github.com/babusingh02/leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -136,6 +138,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/babusingh02/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/babusingh02/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/babusingh02/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0979-di-string-match](https://github.com/babusingh02/leetcode/tree/master/0979-di-string-match) |
 | [1095-two-city-scheduling](https://github.com/babusingh02/leetcode/tree/master/1095-two-city-scheduling) |
 | [1659-get-the-maximum-score](https://github.com/babusingh02/leetcode/tree/master/1659-get-the-maximum-score) |
 ## Sorting
@@ -275,6 +278,7 @@
 | [0409-longest-palindrome](https://github.com/babusingh02/leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/babusingh02/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/babusingh02/leetcode/tree/master/0541-reverse-string-ii) |
+| [0979-di-string-match](https://github.com/babusingh02/leetcode/tree/master/0979-di-string-match) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/babusingh02/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/babusingh02/leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/babusingh02/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
