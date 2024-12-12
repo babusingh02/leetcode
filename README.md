@@ -271,6 +271,7 @@
 | [0179-largest-number](https://github.com/babusingh02/leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/babusingh02/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/babusingh02/leetcode/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/babusingh02/leetcode/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/babusingh02/leetcode/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/babusingh02/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/babusingh02/leetcode/tree/master/0344-reverse-string) |
@@ -344,6 +345,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/babusingh02/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/babusingh02/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/babusingh02/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0257-binary-tree-paths](https://github.com/babusingh02/leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -368,6 +370,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/babusingh02/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/babusingh02/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/babusingh02/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0257-binary-tree-paths](https://github.com/babusingh02/leetcode/tree/master/0257-binary-tree-paths) |
 ## Iterator
 |  |
 | ------- |
@@ -410,6 +413,7 @@
 | [0110-balanced-binary-tree](https://github.com/babusingh02/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/babusingh02/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/babusingh02/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0257-binary-tree-paths](https://github.com/babusingh02/leetcode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -449,5 +453,9 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/babusingh02/leetcode/tree/master/0238-product-of-array-except-self) |
 | [2714-left-and-right-sum-differences](https://github.com/babusingh02/leetcode/tree/master/2714-left-and-right-sum-differences) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/babusingh02/leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
 ![](https://leetcard.jacoblin.cool/leetcode?cache=0)
