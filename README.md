@@ -94,6 +94,7 @@
 | [0979-di-string-match](https://github.com/babusingh02/leetcode/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/babusingh02/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1659-get-the-maximum-score](https://github.com/babusingh02/leetcode/tree/master/1659-get-the-maximum-score) |
+| [1894-merge-strings-alternately](https://github.com/babusingh02/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/babusingh02/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/babusingh02/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/babusingh02/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -298,6 +299,7 @@
 | [0979-di-string-match](https://github.com/babusingh02/leetcode/tree/master/0979-di-string-match) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/babusingh02/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/babusingh02/leetcode/tree/master/1873-longest-nice-substring) |
+| [1894-merge-strings-alternately](https://github.com/babusingh02/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/babusingh02/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2128-reverse-prefix-of-word](https://github.com/babusingh02/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/babusingh02/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
