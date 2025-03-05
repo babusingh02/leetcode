@@ -355,6 +355,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/babusingh02/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/babusingh02/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/babusingh02/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/babusingh02/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/babusingh02/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/babusingh02/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/babusingh02/leetcode/tree/master/0173-binary-search-tree-iterator) |
@@ -380,6 +381,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/babusingh02/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/babusingh02/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/babusingh02/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/babusingh02/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/babusingh02/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/babusingh02/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/babusingh02/leetcode/tree/master/0173-binary-search-tree-iterator) |
@@ -425,6 +427,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/babusingh02/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/babusingh02/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/babusingh02/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/babusingh02/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/babusingh02/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/babusingh02/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0133-clone-graph](https://github.com/babusingh02/leetcode/tree/master/0133-clone-graph) |
@@ -433,6 +436,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/babusingh02/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/babusingh02/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/babusingh02/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/babusingh02/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/babusingh02/leetcode/tree/master/0127-word-ladder) |
