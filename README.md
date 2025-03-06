@@ -63,6 +63,7 @@
 | [1659-get-the-maximum-score](https://github.com/babusingh02/leetcode/tree/master/1659-get-the-maximum-score) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/babusingh02/leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1813-maximum-erasure-value](https://github.com/babusingh02/leetcode/tree/master/1813-maximum-erasure-value) |
+| [1833-find-the-highest-altitude](https://github.com/babusingh02/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/babusingh02/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/babusingh02/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/babusingh02/leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -490,6 +491,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/babusingh02/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1833-find-the-highest-altitude](https://github.com/babusingh02/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2714-left-and-right-sum-differences](https://github.com/babusingh02/leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Backtracking
 |  |
