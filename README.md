@@ -59,6 +59,7 @@
 | [1127-last-stone-weight](https://github.com/babusingh02/leetcode/tree/master/1127-last-stone-weight) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/babusingh02/leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1241-decompress-run-length-encoded-list](https://github.com/babusingh02/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/babusingh02/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/babusingh02/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1659-get-the-maximum-score](https://github.com/babusingh02/leetcode/tree/master/1659-get-the-maximum-score) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/babusingh02/leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
@@ -210,6 +211,7 @@
 | [0621-task-scheduler](https://github.com/babusingh02/leetcode/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/babusingh02/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0924-fair-candy-swap](https://github.com/babusingh02/leetcode/tree/master/0924-fair-candy-swap) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/babusingh02/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1813-maximum-erasure-value](https://github.com/babusingh02/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1873-longest-nice-substring](https://github.com/babusingh02/leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/babusingh02/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
