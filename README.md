@@ -86,6 +86,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/babusingh02/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/babusingh02/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/babusingh02/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/babusingh02/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/babusingh02/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/babusingh02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/babusingh02/leetcode/tree/master/0455-assign-cookies) |
@@ -293,6 +294,7 @@
 | [0299-bulls-and-cows](https://github.com/babusingh02/leetcode/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/babusingh02/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/babusingh02/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/babusingh02/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/babusingh02/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/babusingh02/leetcode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/babusingh02/leetcode/tree/master/0394-decode-string) |
