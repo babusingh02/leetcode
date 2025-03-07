@@ -266,6 +266,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/babusingh02/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/babusingh02/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/babusingh02/leetcode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/babusingh02/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/babusingh02/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/babusingh02/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/babusingh02/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -360,6 +361,7 @@
 | [0002-add-two-numbers](https://github.com/babusingh02/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/babusingh02/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/babusingh02/leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/babusingh02/leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/babusingh02/leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/babusingh02/leetcode/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/babusingh02/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
