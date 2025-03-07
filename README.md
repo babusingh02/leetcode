@@ -33,6 +33,7 @@
 | [0204-count-primes](https://github.com/babusingh02/leetcode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/babusingh02/leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/babusingh02/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/babusingh02/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/babusingh02/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/babusingh02/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/babusingh02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -87,6 +88,7 @@
 | [0141-linked-list-cycle](https://github.com/babusingh02/leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/babusingh02/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/babusingh02/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/babusingh02/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/babusingh02/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/babusingh02/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/babusingh02/leetcode/tree/master/0349-intersection-of-two-arrays) |
