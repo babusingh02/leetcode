@@ -521,4 +521,4 @@
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/babusingh02/leetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
-![](https://leetcard.jacoblin.cool/leetcode?cache=0)
+![](https://leetcord.LeetHub v2.cool/leetcode?cache=0)
