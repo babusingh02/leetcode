@@ -278,6 +278,7 @@
 | [0002-add-two-numbers](https://github.com/babusingh02/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/babusingh02/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/babusingh02/leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/babusingh02/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/babusingh02/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/babusingh02/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/babusingh02/leetcode/tree/master/0189-rotate-array) |
@@ -349,6 +350,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/babusingh02/leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/babusingh02/leetcode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/babusingh02/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/babusingh02/leetcode/tree/master/0389-find-the-difference) |
