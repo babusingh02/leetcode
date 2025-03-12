@@ -73,6 +73,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/babusingh02/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2714-left-and-right-sum-differences](https://github.com/babusingh02/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2737-row-with-maximum-ones](https://github.com/babusingh02/leetcode/tree/master/2737-row-with-maximum-ones) |
+| [3388-right-triangles](https://github.com/babusingh02/leetcode/tree/master/3388-right-triangles) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/babusingh02/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
@@ -221,6 +222,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/babusingh02/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/babusingh02/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2406-decode-the-message](https://github.com/babusingh02/leetcode/tree/master/2406-decode-the-message) |
+| [3388-right-triangles](https://github.com/babusingh02/leetcode/tree/master/3388-right-triangles) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -240,6 +242,7 @@
 | [0621-task-scheduler](https://github.com/babusingh02/leetcode/tree/master/0621-task-scheduler) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/babusingh02/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/babusingh02/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [3388-right-triangles](https://github.com/babusingh02/leetcode/tree/master/3388-right-triangles) |
 ## Design
 |  |
 | ------- |
@@ -288,6 +291,7 @@
 | [1430-find-the-k-beauty-of-a-number](https://github.com/babusingh02/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/babusingh02/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/babusingh02/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3388-right-triangles](https://github.com/babusingh02/leetcode/tree/master/3388-right-triangles) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/babusingh02/leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## String
 |  |
@@ -496,6 +500,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [3388-right-triangles](https://github.com/babusingh02/leetcode/tree/master/3388-right-triangles) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/babusingh02/leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Counting Sort
 |  |
