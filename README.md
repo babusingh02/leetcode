@@ -463,6 +463,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/babusingh02/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/babusingh02/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/babusingh02/leetcode/tree/master/0257-binary-tree-paths) |
+| [0871-keys-and-rooms](https://github.com/babusingh02/leetcode/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -472,6 +473,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/babusingh02/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/babusingh02/leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/babusingh02/leetcode/tree/master/0133-clone-graph) |
+| [0871-keys-and-rooms](https://github.com/babusingh02/leetcode/tree/master/0871-keys-and-rooms) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/babusingh02/leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 ## Enumeration
 |  |
@@ -518,6 +520,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/babusingh02/leetcode/tree/master/0133-clone-graph) |
+| [0871-keys-and-rooms](https://github.com/babusingh02/leetcode/tree/master/0871-keys-and-rooms) |
 ## Data Stream
 |  |
 | ------- |
