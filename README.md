@@ -70,6 +70,7 @@
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/babusingh02/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/babusingh02/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/babusingh02/leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2673-maximize-win-from-two-segments](https://github.com/babusingh02/leetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/babusingh02/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2714-left-and-right-sum-differences](https://github.com/babusingh02/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2737-row-with-maximum-ones](https://github.com/babusingh02/leetcode/tree/master/2737-row-with-maximum-ones) |
@@ -350,6 +351,7 @@
 | [1873-longest-nice-substring](https://github.com/babusingh02/leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/babusingh02/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/babusingh02/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2673-maximize-win-from-two-segments](https://github.com/babusingh02/leetcode/tree/master/2673-maximize-win-from-two-segments) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -410,6 +412,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/babusingh02/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0792-binary-search](https://github.com/babusingh02/leetcode/tree/master/0792-binary-search) |
 | [0924-fair-candy-swap](https://github.com/babusingh02/leetcode/tree/master/0924-fair-candy-swap) |
+| [2673-maximize-win-from-two-segments](https://github.com/babusingh02/leetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/babusingh02/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Tree
 |  |
