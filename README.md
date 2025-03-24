@@ -165,6 +165,7 @@
 | [0979-di-string-match](https://github.com/babusingh02/leetcode/tree/master/0979-di-string-match) |
 | [1095-two-city-scheduling](https://github.com/babusingh02/leetcode/tree/master/1095-two-city-scheduling) |
 | [1659-get-the-maximum-score](https://github.com/babusingh02/leetcode/tree/master/1659-get-the-maximum-score) |
+| [2475-largest-palindromic-number](https://github.com/babusingh02/leetcode/tree/master/2475-largest-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -222,6 +223,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/babusingh02/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/babusingh02/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2406-decode-the-message](https://github.com/babusingh02/leetcode/tree/master/2406-decode-the-message) |
+| [2475-largest-palindromic-number](https://github.com/babusingh02/leetcode/tree/master/2475-largest-palindromic-number) |
 | [3388-right-triangles](https://github.com/babusingh02/leetcode/tree/master/3388-right-triangles) |
 ## Heap (Priority Queue)
 |  |
@@ -242,6 +244,7 @@
 | [0621-task-scheduler](https://github.com/babusingh02/leetcode/tree/master/0621-task-scheduler) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/babusingh02/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/babusingh02/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2475-largest-palindromic-number](https://github.com/babusingh02/leetcode/tree/master/2475-largest-palindromic-number) |
 | [3388-right-triangles](https://github.com/babusingh02/leetcode/tree/master/3388-right-triangles) |
 ## Design
 |  |
@@ -328,6 +331,7 @@
 | [2372-rearrange-characters-to-make-target-string](https://github.com/babusingh02/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2406-decode-the-message](https://github.com/babusingh02/leetcode/tree/master/2406-decode-the-message) |
 | [2470-removing-stars-from-a-string](https://github.com/babusingh02/leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2475-largest-palindromic-number](https://github.com/babusingh02/leetcode/tree/master/2475-largest-palindromic-number) |
 | [3540-hash-divided-string](https://github.com/babusingh02/leetcode/tree/master/3540-hash-divided-string) |
 ## Sliding Window
 |  |
