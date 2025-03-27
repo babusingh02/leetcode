@@ -72,6 +72,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/babusingh02/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/babusingh02/leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2673-maximize-win-from-two-segments](https://github.com/babusingh02/leetcode/tree/master/2673-maximize-win-from-two-segments) |
+| [2679-count-distinct-numbers-on-board](https://github.com/babusingh02/leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/babusingh02/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2714-left-and-right-sum-differences](https://github.com/babusingh02/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2737-row-with-maximum-ones](https://github.com/babusingh02/leetcode/tree/master/2737-row-with-maximum-ones) |
@@ -229,6 +230,7 @@
 | [2372-rearrange-characters-to-make-target-string](https://github.com/babusingh02/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2406-decode-the-message](https://github.com/babusingh02/leetcode/tree/master/2406-decode-the-message) |
 | [2475-largest-palindromic-number](https://github.com/babusingh02/leetcode/tree/master/2475-largest-palindromic-number) |
+| [2679-count-distinct-numbers-on-board](https://github.com/babusingh02/leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3388-right-triangles](https://github.com/babusingh02/leetcode/tree/master/3388-right-triangles) |
 ## Heap (Priority Queue)
 |  |
@@ -299,6 +301,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/babusingh02/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/babusingh02/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/babusingh02/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2679-count-distinct-numbers-on-board](https://github.com/babusingh02/leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/babusingh02/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3388-right-triangles](https://github.com/babusingh02/leetcode/tree/master/3388-right-triangles) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/babusingh02/leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
@@ -473,6 +476,7 @@
 | [0983-validate-stack-sequences](https://github.com/babusingh02/leetcode/tree/master/0983-validate-stack-sequences) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/babusingh02/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2470-removing-stars-from-a-string](https://github.com/babusingh02/leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2679-count-distinct-numbers-on-board](https://github.com/babusingh02/leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3540-hash-divided-string](https://github.com/babusingh02/leetcode/tree/master/3540-hash-divided-string) |
 ## Depth-First Search
 |  |
