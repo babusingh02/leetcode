@@ -41,6 +41,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/babusingh02/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/babusingh02/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/babusingh02/leetcode/tree/master/0506-relative-ranks) |
+| [0526-beautiful-arrangement](https://github.com/babusingh02/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0561-array-partition](https://github.com/babusingh02/leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/babusingh02/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/babusingh02/leetcode/tree/master/0605-can-place-flowers) |
@@ -118,6 +119,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/babusingh02/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/babusingh02/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0377-combination-sum-iv](https://github.com/babusingh02/leetcode/tree/master/0377-combination-sum-iv) |
+| [0526-beautiful-arrangement](https://github.com/babusingh02/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0646-maximum-length-of-pair-chain](https://github.com/babusingh02/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/babusingh02/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1013-fibonacci-number](https://github.com/babusingh02/leetcode/tree/master/1013-fibonacci-number) |
@@ -367,6 +369,7 @@
 | [0136-single-number](https://github.com/babusingh02/leetcode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/babusingh02/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/babusingh02/leetcode/tree/master/0389-find-the-difference) |
+| [0526-beautiful-arrangement](https://github.com/babusingh02/leetcode/tree/master/0526-beautiful-arrangement) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/babusingh02/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1873-longest-nice-substring](https://github.com/babusingh02/leetcode/tree/master/1873-longest-nice-substring) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/babusingh02/leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
@@ -538,6 +541,7 @@
 | [0047-permutations-ii](https://github.com/babusingh02/leetcode/tree/master/0047-permutations-ii) |
 | [0216-combination-sum-iii](https://github.com/babusingh02/leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/babusingh02/leetcode/tree/master/0257-binary-tree-paths) |
+| [0526-beautiful-arrangement](https://github.com/babusingh02/leetcode/tree/master/0526-beautiful-arrangement) |
 ## Graph
 |  |
 | ------- |
@@ -547,5 +551,9 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/babusingh02/leetcode/tree/master/0969-number-of-recent-calls) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/babusingh02/leetcode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
 ![](https://leetcord.LeetHub v2.cool/leetcode?cache=0)
